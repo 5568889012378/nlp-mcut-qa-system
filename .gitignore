@@ -4,12 +4,13 @@ __pycache__/
 *$py.class
 
 # 虛擬環境目錄 - 避免上傳數百 MB 的套件 (Virtual environments)
-.venv/
+.venv/ 
 venv/
 env/
 ENV/
 env.bak/
 venv.bak/
+.vscode/
 
 # Jupyter Notebook 暫存檔與檢查點 (Jupyter Notebook checkpoints)
 .ipynb_checkpoints/
