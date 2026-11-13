@@ -51,3 +51,5 @@ data/interim/**/*.md
 data/processed/**/*.json
 !data/interim/**/.keep
 !data/processed/**/.keep
+models/
+data/embeddings/
